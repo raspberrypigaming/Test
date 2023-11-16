@@ -1,8 +1,0 @@
-/* Test Github Border */ 
-p.double {border-style: double;}
- 
-/* thin border */ 
-p.thin {
-    border-style: solid;
-    border-width: thin;
-  }
