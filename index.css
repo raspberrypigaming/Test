@@ -4,5 +4,5 @@ p.double {border-style: double;}
 /* thin border */ 
 p.thin {
     border-style: solid;
-    border-width: small;
+    border-width: thin;
   }
