@@ -36,3 +36,13 @@
     margin-left: 0px;
     margin-right: 70%;
 }    
+
+/* Margin Left Color */
+#marginLeftBorder {
+    text-align: center;
+    color: white;
+    background-color: salmon;
+    border-style: double;
+    border-width: thin;
+    border-color: rgb(0, 0, 0);
+}
