@@ -1,0 +1,14 @@
+/* Web Page Banner */
+#webpagebanner {
+    text-align: center;
+    color: rgb(251, 251, 251);
+    background-color: cadetblue;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(169, 169,169);
+}
+    /* Margin */ 
+#margin {
+    border-width: medium;
+
+}    
