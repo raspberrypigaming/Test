@@ -1,14 +1,19 @@
 /* Web Page Banner */
 #webpagebanner {
     text-align: center;
-    color: rgb(251, 251, 251);
+    color: white;
     background-color: cadetblue;
     border-style: solid;
     border-width: thin;
-    border-color: rgb(169, 169,169);
+    border-color: darkgray;
 }
-    /* Margin */ 
-#margin {
+    /* Margin 1 */ 
+#margin1 {
     border-width: medium;
-
+    border-color: black;
+    background-color: whitesmoke;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 0%;
+    margin-right: 150px;
 }    
