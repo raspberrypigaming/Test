@@ -7,3 +7,9 @@
     border-width: thin;
     border-color: darkgray;
 }
+
+/*  */
+#flexContainer {
+    display: flex;
+    border: 1px solid black;
+}
